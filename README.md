@@ -1,4 +1,4 @@
-# Project Slingshot
+# Payshares Project Slingshot
 
 _Accelerating trajectory into interstellar space._
 
